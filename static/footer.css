@@ -32,7 +32,7 @@
 }
 .site-footer a:hover
 {
-  color:red;
+  color:#E5C100;
   text-decoration:none;
 }
 .footer-links
@@ -56,6 +56,11 @@
   text-decoration:none;
 }*/
 
+.instagram, .linkedin, .facebook, .youtube{
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
 
 
 .footer-links .instagram:active,.footer-links .instagram:focus,.footer-links .instagram:hover
@@ -73,6 +78,12 @@
 .footer-links .facebook:active,.footer-links .facebook:focus,.footer-links .facebook:hover
 {
   color:#0474b4;
+  text-decoration:none;
+}
+
+.footer-links .youtube:active,.footer-links .youtube:focus,.footer-links .youtube:hover
+{
+  color:red;
   text-decoration:none;
 }
 

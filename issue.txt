@@ -1,0 +1,15 @@
+1. mobile view
+2. SAIC not fixed
+3. comment box(in form)
+4. special cmnt section
+
+IMPORTANT LINKS
+->Footer
+https://codepen.io/scanfcode/pen/MEZPNd
+
+->Cards
+https://codepen.io/candroo/pen/wKEwRL
+
+->Best comments Cards
+https://codepen.io/shshaw/pen/KzYXvP
+
